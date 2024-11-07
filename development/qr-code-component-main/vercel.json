@@ -1,12 +1,8 @@
 {
     "routes":[
         {
-            "src": "/",
-            "des": "/"
-        },
-        {
-            "src": "/test",
-            "des": "/"
+            "src": "/development/qr-code-component-main/images",
+            "des": "/development/qr-code-component-main/design"
         }
     ]
 }
