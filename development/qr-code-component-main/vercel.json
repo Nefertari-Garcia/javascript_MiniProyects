@@ -1,8 +1,7 @@
 {
     "routes":[
         {
-            "src": "/development/qr-code-component-main/images",
-            "des": "/development/qr-code-component-main/design"
+            "src": "/development/qr-code-component-main/images"
         }
     ]
 }
