@@ -4,10 +4,13 @@
 }
 
 .all{
+    margin: auto;
     text-align: center;
     background-color: #FFFFFF;
     width: 320px;
-    height: 499px ;
+    height: 499px;
+    border: 10px solid;
+
 }
 
 .text1{
@@ -32,6 +35,8 @@
 .image{
     height: 288px;
     width: 288px;
+    border: 5px solid;
+    
 }
 
 .attribution { font-size: 11px; text-align: center; }
