@@ -1,1 +1,1 @@
-# javascript_MiniProyects
+# Frist frontend practice 

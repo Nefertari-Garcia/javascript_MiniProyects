@@ -3,7 +3,18 @@
     height: 120%;
     font-family: 'Outfit', sans-serif;
     text-align: center;
+    font-weight: 700; 
+    letter-spacing: 0px;
     
+}
+
+text2{
+    font-size: 15px;
+    height: 140%;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-weight: 400; 
+    letter-spacing: 0.2px;
 }
 
 .attribution { font-size: 11px; text-align: center; }
