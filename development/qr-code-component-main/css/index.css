@@ -1,3 +1,7 @@
+*{
+    background-color:#D5E1EF ;
+}
+
 .text1{
     font-size: 22px;
     height: 120%;
@@ -8,7 +12,7 @@
     
 }
 
-text2{
+.text2{
     font-size: 15px;
     height: 140%;
     font-family: 'Outfit', sans-serif;
