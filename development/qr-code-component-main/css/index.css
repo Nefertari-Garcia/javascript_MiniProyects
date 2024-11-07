@@ -29,6 +29,10 @@
     letter-spacing: 0.2px;
 }
 
+.image{
+    height: 288px;
+    width: 288px;
+}
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
